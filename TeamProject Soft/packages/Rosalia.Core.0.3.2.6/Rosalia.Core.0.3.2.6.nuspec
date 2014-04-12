@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>Rosalia.Core</id>
+    <version>0.3.2.6</version>
+    <authors>Eugene Guryanov</authors>
+    <owners>Eugene Guryanov</owners>
+    <projectUrl>http://rosalia-tool.net/</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Core libs for Rosalia framework.</description>
+    <tags>automation build msbuild nant psake</tags>
+  </metadata>
+</package>
