@@ -8,3 +8,13 @@ D:\Facultate\Semestrul II An III\IP\Proiect\TeamProject Soft\TeamProject Soft\bi
 D:\Facultate\Semestrul II An III\IP\Proiect\TeamProject Soft\TeamProject Soft\obj\Debug\TeamProject Soft.csprojResolveAssemblyReference.cache
 D:\Facultate\Semestrul II An III\IP\Proiect\TeamProject Soft\TeamProject Soft\obj\Debug\TeamProject Soft.dll
 D:\Facultate\Semestrul II An III\IP\Proiect\TeamProject Soft\TeamProject Soft\obj\Debug\TeamProject Soft.pdb
+D:\GitHub\B13\TeamProject Soft\TeamProject Soft\bin\TeamProject Soft.dll.config
+D:\GitHub\B13\TeamProject Soft\TeamProject Soft\bin\TeamProject Soft.dll
+D:\GitHub\B13\TeamProject Soft\TeamProject Soft\bin\TeamProject Soft.pdb
+D:\GitHub\B13\TeamProject Soft\TeamProject Soft\bin\EntityFramework.dll
+D:\GitHub\B13\TeamProject Soft\TeamProject Soft\bin\EntityFramework.SqlServer.dll
+D:\GitHub\B13\TeamProject Soft\TeamProject Soft\bin\EntityFramework.xml
+D:\GitHub\B13\TeamProject Soft\TeamProject Soft\bin\EntityFramework.SqlServer.xml
+D:\GitHub\B13\TeamProject Soft\TeamProject Soft\obj\Debug\TeamProject Soft.csprojResolveAssemblyReference.cache
+D:\GitHub\B13\TeamProject Soft\TeamProject Soft\obj\Debug\TeamProject Soft.dll
+D:\GitHub\B13\TeamProject Soft\TeamProject Soft\obj\Debug\TeamProject Soft.pdb
