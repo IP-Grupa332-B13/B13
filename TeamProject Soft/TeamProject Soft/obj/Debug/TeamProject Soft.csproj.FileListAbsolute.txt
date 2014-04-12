@@ -18,3 +18,13 @@ D:\GitHub\B13\TeamProject Soft\TeamProject Soft\bin\EntityFramework.SqlServer.xm
 D:\GitHub\B13\TeamProject Soft\TeamProject Soft\obj\Debug\TeamProject Soft.csprojResolveAssemblyReference.cache
 D:\GitHub\B13\TeamProject Soft\TeamProject Soft\obj\Debug\TeamProject Soft.dll
 D:\GitHub\B13\TeamProject Soft\TeamProject Soft\obj\Debug\TeamProject Soft.pdb
+C:\Users\Nomics\Documents\GitHub\B13\TeamProject Soft\TeamProject Soft\bin\TeamProject Soft.dll.config
+C:\Users\Nomics\Documents\GitHub\B13\TeamProject Soft\TeamProject Soft\bin\TeamProject Soft.dll
+C:\Users\Nomics\Documents\GitHub\B13\TeamProject Soft\TeamProject Soft\bin\TeamProject Soft.pdb
+C:\Users\Nomics\Documents\GitHub\B13\TeamProject Soft\TeamProject Soft\bin\EntityFramework.dll
+C:\Users\Nomics\Documents\GitHub\B13\TeamProject Soft\TeamProject Soft\bin\EntityFramework.SqlServer.dll
+C:\Users\Nomics\Documents\GitHub\B13\TeamProject Soft\TeamProject Soft\bin\EntityFramework.xml
+C:\Users\Nomics\Documents\GitHub\B13\TeamProject Soft\TeamProject Soft\bin\EntityFramework.SqlServer.xml
+C:\Users\Nomics\Documents\GitHub\B13\TeamProject Soft\TeamProject Soft\obj\Debug\TeamProject Soft.csprojResolveAssemblyReference.cache
+C:\Users\Nomics\Documents\GitHub\B13\TeamProject Soft\TeamProject Soft\obj\Debug\TeamProject Soft.dll
+C:\Users\Nomics\Documents\GitHub\B13\TeamProject Soft\TeamProject Soft\obj\Debug\TeamProject Soft.pdb
