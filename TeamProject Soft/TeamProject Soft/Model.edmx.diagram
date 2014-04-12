@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="7693f93987004f2f971e2da852e6b133" Name="Diagram1" ZoomLevel="93">
+        <EntityTypeShape EntityType="DATA_TeamProjectSoftModel.absence" Width="1.5" PointX="0.625" PointY="0.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="DATA_TeamProjectSoftModel.avaible_vacantion_day" Width="1.5" PointX="3.625" PointY="1" IsExpanded="true" />
+        <EntityTypeShape EntityType="DATA_TeamProjectSoftModel.client" Width="1.5" PointX="3.125" PointY="5" IsExpanded="true" />
+        <EntityTypeShape EntityType="DATA_TeamProjectSoftModel.emp_project" Width="1.5" PointX="0.625" PointY="2.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="DATA_TeamProjectSoftModel.employee" Width="1.5" PointX="5.625" PointY="3.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="DATA_TeamProjectSoftModel.post" Width="1.5" PointX="11" PointY="0.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="DATA_TeamProjectSoftModel.project" Width="1.5" PointX="0.75" PointY="4.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="DATA_TeamProjectSoftModel.report" Width="1.5" PointX="8.5" PointY="2.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DATA_TeamProjectSoftModel.schedule" Width="1.5" PointX="11.125" PointY="4.625" IsExpanded="true" />
+        <AssociationConnector Association="DATA_TeamProjectSoftModel.FK_absence_Employee" ManuallyRouted="false" >
+        </AssociationConnector>
+        <AssociationConnector Association="DATA_TeamProjectSoftModel.FK_avaible_vacantion_day_emp" ManuallyRouted="false" />
+        <AssociationConnector Association="DATA_TeamProjectSoftModel.FK_project_Toemployee" ManuallyRouted="false" />
+        <AssociationConnector Association="DATA_TeamProjectSoftModel.FK_emp_project_ToEmp" ManuallyRouted="false" />
+        <AssociationConnector Association="DATA_TeamProjectSoftModel.FK_emp_project_ToProject" ManuallyRouted="false" />
+        <AssociationConnector Association="DATA_TeamProjectSoftModel.FK_post_Employee" ManuallyRouted="false" >
+        </AssociationConnector>
+        <AssociationConnector Association="DATA_TeamProjectSoftModel.FK_report_ToEmp" ManuallyRouted="false" />
+        <AssociationConnector Association="DATA_TeamProjectSoftModel.FK_schedule_ToEmp" ManuallyRouted="false" />
+        <AssociationConnector Association="DATA_TeamProjectSoftModel.FK_report_ToTable_1" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
