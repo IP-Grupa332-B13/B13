@@ -54,6 +54,8 @@
 <body>
     <form id="form1" runat="server">
     <div>
+        <br />
+        <br />
         <div class="container">
         <div class="content">
           <div class="row">
@@ -78,6 +80,9 @@
     </div>
   </div> <!-- /container -->
     </div>
+       
+        <br />
+        <asp:Label ID="Label2" runat="server" Text="Label"></asp:Label>
     </form>
 </body>
 </html>
