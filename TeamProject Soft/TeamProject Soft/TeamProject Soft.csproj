@@ -74,24 +74,6 @@
     <Content Include="bootstrap\js\bootstrap.min.js" />
     <Content Include="LoginPage.aspx" />
     <Content Include="packages.config" />
-    <Content Include="ClassDiagram1.cd" />
-    <EntityDeploy Include="Model.edmx">
-      <Generator>EntityModelCodeGenerator</Generator>
-      <LastGenOutput>Model.Designer.cs</LastGenOutput>
-    </EntityDeploy>
-    <Content Include="Model.Context.tt">
-      <Generator>TextTemplatingFileGenerator</Generator>
-      <DependentUpon>Model.edmx</DependentUpon>
-      <LastGenOutput>Model.Context.cs</LastGenOutput>
-    </Content>
-    <Content Include="Model.edmx.diagram">
-      <DependentUpon>Model.edmx</DependentUpon>
-    </Content>
-    <Content Include="Model.tt">
-      <Generator>TextTemplatingFileGenerator</Generator>
-      <DependentUpon>Model.edmx</DependentUpon>
-      <LastGenOutput>Model.cs</LastGenOutput>
-    </Content>
     <Content Include="Master.Master" />
     <Content Include="bootstrap\css\bootstrap-theme.css.map" />
     <Content Include="bootstrap\css\bootstrap.css.map" />
@@ -114,26 +96,6 @@
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="absence.cs">
-      <SubType>Code</SubType>
-      <DependentUpon>Model.tt</DependentUpon>
-    </Compile>
-    <Compile Include="avaible_vacantion_day.cs">
-      <SubType>Code</SubType>
-      <DependentUpon>Model.tt</DependentUpon>
-    </Compile>
-    <Compile Include="client.cs">
-      <SubType>Code</SubType>
-      <DependentUpon>Model.tt</DependentUpon>
-    </Compile>
-    <Compile Include="employee.cs">
-      <SubType>Code</SubType>
-      <DependentUpon>Model.tt</DependentUpon>
-    </Compile>
-    <Compile Include="emp_project.cs">
-      <SubType>Code</SubType>
-      <DependentUpon>Model.tt</DependentUpon>
-    </Compile>
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
@@ -151,38 +113,7 @@
     <Compile Include="Master.Master.designer.cs">
       <DependentUpon>Master.Master</DependentUpon>
     </Compile>
-    <Compile Include="Model.Context.cs">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>Model.Context.tt</DependentUpon>
-    </Compile>
-    <Compile Include="Model.cs">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>Model.tt</DependentUpon>
-    </Compile>
-    <Compile Include="Model.Designer.cs">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>Model.edmx</DependentUpon>
-    </Compile>
-    <Compile Include="post.cs">
-      <SubType>Code</SubType>
-      <DependentUpon>Model.tt</DependentUpon>
-    </Compile>
-    <Compile Include="project.cs">
-      <SubType>Code</SubType>
-      <DependentUpon>Model.tt</DependentUpon>
-    </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="report.cs">
-      <SubType>Code</SubType>
-      <DependentUpon>Model.tt</DependentUpon>
-    </Compile>
-    <Compile Include="schedule.cs">
-      <SubType>Code</SubType>
-      <DependentUpon>Model.tt</DependentUpon>
-    </Compile>
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Models\" />
