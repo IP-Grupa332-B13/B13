@@ -45,7 +45,6 @@
       <HintPath>..\packages\EntityFramework.6.1.0\lib\net45\EntityFramework.SqlServer.dll</HintPath>
     </Reference>
     <Reference Include="Microsoft.CSharp" />
-    <Reference Include="System.Data.Linq" />
     <Reference Include="System.Runtime.Serialization" />
     <Reference Include="System.Security" />
     <Reference Include="System.Web.DynamicData" />
@@ -66,7 +65,6 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="AddClient.aspx" />
     <Content Include="bootstrap\css\bootstrap-theme.css" />
     <Content Include="bootstrap\css\bootstrap-theme.min.css" />
     <Content Include="bootstrap\css\bootstrap.css" />
@@ -119,13 +117,6 @@
     <Compile Include="absence.cs">
       <SubType>Code</SubType>
       <DependentUpon>Model.tt</DependentUpon>
-    </Compile>
-    <Compile Include="AddClient.aspx.cs">
-      <DependentUpon>AddClient.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="AddClient.aspx.designer.cs">
-      <DependentUpon>AddClient.aspx</DependentUpon>
     </Compile>
     <Compile Include="avaible_vacantion_day.cs">
       <SubType>Code</SubType>
@@ -197,7 +188,6 @@
     <Folder Include="Models\" />
   </ItemGroup>
   <ItemGroup>
-    <Service Include="{3259AA49-8AA1-44D3-9025-A0B520596A8C}" />
     <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />
   </ItemGroup>
   <PropertyGroup>
